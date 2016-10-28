@@ -15,7 +15,12 @@ body {
 p{
     color: olivedrab;
     margin-top: 0; 
-	text-align: justify;
+	text-align: left;
+    width: 800px;
+    padding: 10px;
+    margin: 0;
+    margin-left: auto;
+
 }
 h2{
     color: transparent;
@@ -42,7 +47,7 @@ div{
     background-size: 100%;
 }
 header h1 { 
-background: transparent url(http://r69.cooltext.com/rendered/cooltext212634041518429.gif) no-repeat top center;
+background: transparent url(img/cooltext212763588364447.gif) no-repeat top center;
 	margin-top: 10px;
 	display: block;
 	width: 600px;
@@ -54,7 +59,7 @@ background: transparent url(http://r69.cooltext.com/rendered/cooltext21263404151
 	}
 
 header h2 { 
-	background: transparent url(http://r73.cooltext.com/rendered/cooltext212637241745439.png) no-repeat top left; 
+	background: transparent url(img/cooltext212763776712375.png) no-repeat top left; 
 	margin-top: 5px; 
     margin-bottom: 5px;
 	width: auto; 
@@ -70,6 +75,33 @@ abbr {
 	}
 .article{
     min-width: 470px;
-	width: 100%;
-	
+	width: 100%;	
+}
+.preamble h3{
+    background: transparent url(img/cooltext212762170020935.png) no-repeat top left;
+    color: transparent;
+}
+.explanation h3{
+    background: transparent url(img/cooltext212762449957517.png) no-repeat top left;
+    color: transparent;
+}
+.participation h3{
+    background: transparent url(img/cooltext212762523255198.png) no-repeat top left;
+    color: transparent;
+}
+.benefits h3{
+    background: transparent url(img/cooltext212762580034855.png) no-repeat top left;
+    color: transparent;
+}
+.requirements h3{
+    background: transparent url(img/cooltext212762728693453.png) no-repeat top left;
+    color: transparent;
+}
+.sidebar{
+    margin-top: 0; 
+	text-align: left;
+    width: 800px;
+    padding: 10px;
+    margin: 0;
+    margin-left: auto;
 }
